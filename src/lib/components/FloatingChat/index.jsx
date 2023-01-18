@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import './style.css';
+// import './style.css';
 import Iframe from './../Iframe';
 
 const cdn = 'https://d1pfint8izqszg.cloudfront.net';
